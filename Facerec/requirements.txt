@@ -1,0 +1,6 @@
+insightface
+opencv-python
+numpy
+faiss-gpu  
+torch 
+onnxruntime-gpu 
